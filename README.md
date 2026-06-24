@@ -50,14 +50,6 @@ Team Project | View Repository
 
 A Java desktop application that helps customers choose outfits for specific events using intelligent recommendation algorithms.
 
-My Contributions:
-
-
-Backend logic & recommendation engine
-Data management & storage layer
-System architecture & performance optimization
-
-
 Tech Stack: Java, Desktop GUI, Database Integration
 
 Team Project | View Repository
