@@ -2,7 +2,7 @@
 
 **Computer Science Student | Backend Developer | Tech Enthusiast**
 
-I'm a final year Computer Science student passionate about building robust, scalable backend systems. I love diving into APIs, databases, and server-side architecture. Currently exploring the depths of Node.js and Express while honing my skills in database design and optimization.
+I'm a final year Computer Science student passionate about building robust, scalable backend systems. I love diving into APIs, databases, and server-side architecture. Currently exploring the depths of Node.js and Express while improving my skills in database design and optimization.
 
 ## 🚀 What I Build
 
