@@ -1,4 +1,4 @@
-# Hey, I'm [Matodzi Nenwali] 
+# Hey, I'm Matodzi Nenwali 
 
 **Computer Science Student | Backend Developer | Tech Enthusiast**
 
