@@ -60,6 +60,7 @@ Team Project | View Repository
 - Database optimization and scaling strategies
 - Microservices architecture
 - API security and authentication
+- mobile application development
 
 ## 📫 Let's Connect
 
