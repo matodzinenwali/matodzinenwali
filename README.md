@@ -35,7 +35,7 @@ I'm a final year Computer Science student passionate about building robust, scal
 A self-editable portfolio built with clean architecture — content (projects, skills, achievements) is managed through a JWT-protected admin dashboard instead of being hardcoded into the frontend.
 Tech Stack: React, Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary
 Deployed: Vercel (frontend) · Render (API) · MongoDB Atlas (database)
-Solo Project | [View Repository](#) | [Live Site](#)
+Solo Project | [View Repository](https://github.com/matodzinenwali/NonInvasion.git) | [Live Site] (Still under development)(#)
 
 📚 **E-Commerce Book Platform**
 A full-stack three-tier e-commerce application for selling books with comprehensive database design, robust API, and user-facing frontend.
@@ -45,16 +45,17 @@ My Contributions:
 - Integration between backend services and frontend
 
 Tech Stack: .NET Framework, ASP.NET, C#, SQL Server Management, HTML, JavaScript, CSS
-Team Project | [View Repository](#)
+Team Project | [View Repository](https://github.com/matodzinenwali/ECommerce_Online_Book_Store.git)
 
 👗 **Outfit Recommendation System**
 A Java desktop application that helps customers choose outfits for specific events using intelligent recommendation algorithms.
 Tech Stack: Java, Desktop GUI, Database Integration
-Team Project | [View Repository](#)
+Team Project 
 
 ## 🎯 Currently Learning
 - Microservices architecture
 - Mobile application development (React Native)
+- Prisma
 - Advanced database scaling strategies
 - API security beyond the basics (rate limiting, refresh tokens)
 
