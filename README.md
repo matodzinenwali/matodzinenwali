@@ -35,7 +35,7 @@ I'm a final year Computer Science student passionate about building robust, scal
 A self-editable portfolio built with clean architecture — content (projects, skills, achievements) is managed through a JWT-protected admin dashboard instead of being hardcoded into the frontend.
 Tech Stack: React, Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary
 Deployed: Vercel (frontend) · Render (API) · MongoDB Atlas (database)
-Solo Project | [View Repository](https://github.com/matodzinenwali/NonInvasion.git) | [Live Site] (Still under development)(#)
+Solo Project | [View Repository](https://github.com/matodzinenwali/portfolio.git) | [Live Site] (Still under development)
 
 📚 **E-Commerce Book Platform**
 A full-stack three-tier e-commerce application for selling books with comprehensive database design, robust API, and user-facing frontend.
