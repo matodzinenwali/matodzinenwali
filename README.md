@@ -7,7 +7,7 @@ I'm a final year Computer Science student passionate about building robust, scal
 - RESTful APIs and microservices
 - Database-driven applications
 - Backend systems focused on performance and scalability
-- Full-stack projects spanning React frontends to Express/MongoDB backends
+- Full-stack projects spanning React frontends to Express/MongoDB,PostreSQL backends
 
 ## 💻 Tech Stack
 
