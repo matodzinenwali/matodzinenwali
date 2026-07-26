@@ -1,15 +1,15 @@
 # Hey, I'm Matodzi Nenwali 
 **Computer Science Student | Full-Stack Developer | Tech Enthusiast**
 
-I'm a final year Computer Science student passionate about building robust, scalable systems — from backend APIs and databases to the full-stack applications that sit on top of them. I love diving into APIs, databases, and server-side architecture, and I've recently been building out my full-stack range with React and clean backend architecture.
+I'm a final year Computer Science student dedicated to building robust, scalable systems — from backend APIs and databases to the full-stack applications that sit on top of them. I love diving into APIs, databases, and server-side architecture, and I've recently been building out my full-stack range with React and clean backend architecture.
 
-## 🚀 What I Build
+## What I Build
 - RESTful APIs and microservices
 - Database-driven applications
 - Backend systems focused on performance and scalability
 - Full-stack projects spanning React frontends to Express/MongoDB,PostreSQL backends
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**
 - JavaScript/Node.js
@@ -29,7 +29,7 @@ I'm a final year Computer Science student passionate about building robust, scal
 - Git & Version Control
 - Server-side logic & architecture
 
-## 📂 Featured Projects
+## Featured Projects
 
 🌐 **Dynamic Full-Stack Portfolio** (this site)
 A self-editable portfolio built with clean architecture — content (projects, skills, achievements) is managed through a JWT-protected admin dashboard instead of being hardcoded into the frontend.
