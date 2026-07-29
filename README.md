@@ -58,6 +58,7 @@ Team Project
 - Prisma
 - Advanced database scaling strategies
 - API security beyond the basics (rate limiting, refresh tokens)
+- Containerization
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matodzinenwali)
