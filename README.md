@@ -1,5 +1,5 @@
 # Hey, I'm Matodzi Nenwali 
-**Computer Science Student | Full-Stack Developer | Tech Enthusiast**
+**Computer Science Student | Backend Developer | Tech Enthusiast**
 
 I'm a final year Computer Science student dedicated to building robust, scalable systems, from backend APIs and databases to the full-stack applications that sit on top of them. I love diving into APIs, databases, and server-side architecture, and I've recently been building out my full-stack range with React and clean backend architecture.
 
