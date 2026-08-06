@@ -32,7 +32,7 @@ I'm a final year Computer Science student dedicated to building robust, scalable
 ## Featured Projects
 
 🌐 **Dynamic Full-Stack Portfolio** (this site)
-A self-editable portfolio built with clean architecture — content (projects, skills, achievements) is managed through a JWT-protected admin dashboard instead of being hardcoded into the frontend.
+A self-editable portfolio built with clean architecture, content (projects, skills, achievements) is managed through a JWT-protected admin dashboard instead of being hardcoded into the frontend.
 Tech Stack: React, Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary
 Deployed: Vercel (frontend) · Render (API) · MongoDB Atlas (database)
 Solo Project | [View Repository](https://github.com/matodzinenwali/portfolio.git) | [Live Site] (Still under development)
