@@ -7,7 +7,7 @@ I'm a final year Computer Science student dedicated to building robust, scalable
 - RESTful APIs and microservices
 - Database-driven applications
 - Backend systems focused on performance and scalability
-- Full-stack projects spanning React frontends to Express/MongoDB,PostreSQL backends
+- Full-stack projects
 
 ## Tech Stack
 
@@ -15,6 +15,7 @@ I'm a final year Computer Science student dedicated to building robust, scalable
 - JavaScript/Node.js
 - Express.js
 - React.js
+- .NET Development with Entity FrameWork Core
 
 **Databases:**
 - MongoDB (NoSQL, document-based) + Mongoose ODM
