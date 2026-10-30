@@ -15,7 +15,7 @@ I'm a final year Computer Science student dedicated to building robust, scalable
 - JavaScript/Node.js
 - Express.js
 - React.js
-- .NET Development(C#) with Entity FrameWork Core
+- ASP.NET CORE with Entity Framework 
 
 **Databases:**
 - MongoDB (NoSQL, document-based) + Mongoose ODM
