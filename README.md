@@ -1,5 +1,5 @@
 # Hey, I'm Matodzi Nenwali 
-##software developer
+## software developer
 mostly backend. building apis, databases, and full-stack apps.
 
 ## What I Build
