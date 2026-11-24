@@ -3,7 +3,7 @@
 mostly backend. building apis, databases, and full-stack apps.
 
 ## What I Build
-- RESTful APIs and microservices
+- RESTful APIs
 - Database-driven applications
 - Backend systems focused on performance and scalability
 - Full-stack projects
@@ -11,10 +11,10 @@ mostly backend. building apis, databases, and full-stack apps.
 ## Tech Stack
 
 **Languages & Frameworks:**
+- ASP.NET CORE with Entity Framework 
 - JavaScript/Node.js
 - Express.js
 - React.js
-- ASP.NET CORE with Entity Framework 
 
 **Databases:**
 - MongoDB (NoSQL, document-based) + Mongoose ODM
