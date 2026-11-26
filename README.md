@@ -11,15 +11,15 @@ mostly backend. building apis, databases, and full-stack apps.
 ## Tech Stack
 
 **Languages & Frameworks:**
-- ASP.NET CORE with Entity Framework 
+- C#/ASP.NET CORE with Entity Framework 
 - JavaScript/Node.js
 - Express.js
 - React.js
 
 **Databases:**
-- MongoDB (NoSQL, document-based) + Mongoose ODM
-- PostgreSQL (Relational, advanced queries)
 - MySQL (Relational, traditional)
+- PostgreSQL (Relational, advanced queries)
+- MongoDB (NoSQL, document-based) + Mongoose ODM
 
 **Tools & Skills:**
 - RESTful API Design
